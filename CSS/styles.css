@@ -1,0 +1,133 @@
+body {
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 15px;
+  color: var(--very-dark-blue);
+  background-color: var(--very-light-gray);
+  padding-top: 20px;
+  text-align: center;
+  font-weight: 100%;
+  line-height: 2;
+
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+h2 {
+  font-size: 20px;
+  font-style: normal;
+}
+
+p {
+  font-size: 15px;
+}
+
+.reliable {
+  width: 580px;
+  margin: 0 600px 0 600px;
+}
+
+.efficient {
+  font-size: 1.9rem;
+}
+
+.builder {
+  background-color: white;
+  filter: drop-shadow(0 0 0.75rem lightgrey);
+  border-radius: 5px;
+  border-top: solid;
+  border-color: hsl(0, 78%, 62%);
+  border-width: 5px;
+  height: 150px;
+  width: 400px;
+  padding: 10px 30px 100px 20px;
+  margin: 20px 10px;
+  text-align: left;
+  display: inline-block;
+  position: relative;
+  left: 650px;
+  line-height: 2;
+}
+
+.supervisor {
+  background-color: white;
+  filter: drop-shadow(0 0 0.75rem lightgrey);
+  border-radius: 5px;
+  border-top: solid;
+  border-color: hsl(180, 62%, 55%);
+  border-width: 5px;
+  height: 150px;
+  width: 400px;
+  padding: 10px 20px 100px 20px;
+  margin: 20px 10px;
+  text-align: left;
+  display: inline-block;
+  position: relative;
+  right: 290px;
+  top: 110px;
+  line-height: 2;
+
+}
+
+.karma {
+  background-color: white;
+  filter: drop-shadow(0 0 0.75rem lightgrey);
+  border-radius: 5px;
+  border-top: solid;
+  border-color: hsl(34, 97%, 64%);
+  border-width: 5px;
+  height: 150px;
+  width: 400px;
+  padding: 10px 30px 100px 20px;
+  margin: 20px 10px;
+  text-align: left;
+  display: inline-block;
+  position: relative;
+  right: 290px;
+  top: 260px;
+  line-height: 2;
+
+}
+
+.calculator {
+  background-color: white;
+  filter: drop-shadow(0 0 0.75rem lightgrey);
+  border-radius: 5px;
+  border-top: solid;
+  border-color: hsl(212, 86%, 64%);
+  border-width: 5px;
+  height: 150px;
+  width: 400px;
+  padding: 10px 20px 100px 20px;
+  margin: 40px 10px 10px 10px;
+  text-align: left;
+  display: inline-block;
+  position: relative;
+  right: 285px;
+  top: 130px;
+  line-height: 2;
+
+}
+
+.team-image {
+  float: right;
+}
+
+.supervisor-svg {
+  float: right;
+}
+
+.karma-images {
+  float: right;
+}
+
+.calculator-images {
+  float: right;
+}
+
+.attribution {
+  position: fixed;
+  bottom: 0;
+  padding-left: 20px;
+}
